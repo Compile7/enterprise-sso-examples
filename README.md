@@ -38,13 +38,24 @@ A curated collection of Single Sign-On (SSO) implementation examples from B2B Sa
 | Phrase | https://eu.phrase.com/idm-ui/signin |
 | Pitch | https://app.pitch.com/?login=true |
 | Postman | https://identity.getpostman.com/login |
+| Raygun | https://app.raygun.com/signin |
+| Recruitee | https://auth.recruitee.com/sign-in |
 | Rive | https://rive.app/login/ |
+| Runway | https://app.runway.team/login |
+| Sanity | https://www.sanity.io/login |
 | Semrush | https://www.semrush.com/login/ |
+| Sentry | https://sentry.io/auth/login/ |
 | SimilarWeb | https://secure.similarweb.com/account/login |
+| Snyk | https://app.snyk.io/login |
 | Stripe | https://dashboard.stripe.com/login |
 | Sumo Logic | https://service.sumologic.com/ui/ |
+| TextExpander | https://auth.textexpander.com/sign-in |
 | Webflow | https://webflow.com/login |
+| Wix | https://users.wix.com/signin |
+| Workable | https://www.workable.com/signin |
 | Zapier | https://zapier.com/app/login |
+| Zeplin | https://app.zeplin.io/login |
+| Zoom | https://www.zoom.us/signin#/login |
 
 ## How to Contribute
 
