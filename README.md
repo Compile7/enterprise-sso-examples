@@ -21,6 +21,7 @@ A curated collection of Single Sign-On (SSO) implementation examples from B2B Sa
 | Docker | https://app.docker.com/login |
 | Elastic | https://cloud.elastic.co/login |
 | Front | https://app.frontapp.com/signin |
+| Gracker AI | https://portal.gracker.ai |
 | Hootsuite | https://hootsuite.com/signin |
 | Hotjar | https://insights.hotjar.com/login |
 | HubSpot | https://app.hubspot.com/login |
