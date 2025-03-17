@@ -2,7 +2,7 @@
 
 A curated collection of Single Sign-On (SSO) implementation examples from B2B SaaS companies. This repository serves as a reference for product managers and technical leaders looking to implement SSO login flows.
 
-## Examples
+## SSO Login Examples
 
 | Company | SSO Login URL |
 |---------|---------------|
